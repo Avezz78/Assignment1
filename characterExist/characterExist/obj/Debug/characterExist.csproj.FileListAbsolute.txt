@@ -1,0 +1,8 @@
+C:\Users\91720\Desktop\Assignment\characterExist\characterExist\bin\Debug\characterExist.exe.config
+C:\Users\91720\Desktop\Assignment\characterExist\characterExist\bin\Debug\characterExist.exe
+C:\Users\91720\Desktop\Assignment\characterExist\characterExist\bin\Debug\characterExist.pdb
+C:\Users\91720\Desktop\Assignment\characterExist\characterExist\obj\Debug\characterExist.csproj.AssemblyReference.cache
+C:\Users\91720\Desktop\Assignment\characterExist\characterExist\obj\Debug\characterExist.csproj.SuggestedBindingRedirects.cache
+C:\Users\91720\Desktop\Assignment\characterExist\characterExist\obj\Debug\characterExist.csproj.CoreCompileInputs.cache
+C:\Users\91720\Desktop\Assignment\characterExist\characterExist\obj\Debug\characterExist.exe
+C:\Users\91720\Desktop\Assignment\characterExist\characterExist\obj\Debug\characterExist.pdb
